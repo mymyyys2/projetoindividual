@@ -1,0 +1,113 @@
+body{
+    background-color:#FFFFE3;	
+    width: auto;
+    font-size: 16px;
+    }
+    #header{
+        background-color: #FFA82A;
+        width: auto;
+        text-align: center;
+        border: solid 2px #C7811E;
+        border-bottom: 0px;
+    } 
+    a:link{
+        color: #1F7DB8;
+        font-size: 17px;
+        background-color:#8FD4FF;
+        margin-top: 40px;
+    }
+    a:hover{
+        background-color: #46b8ff;
+        color: #1F7DB8;
+    }
+    a:visited{
+        color: #1F7DB8;
+    }
+    h2{
+        margin-left: 10px;
+        margin-top: 20px;
+        color: #C7811E;
+        text-align: left;
+        margin-bottom: 20px;
+        margin-left: 20px;
+    }
+h3{
+    color: #C7811E;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+    ul{
+        color: #FFA82A;
+    }
+    p{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+        color: #1F7DB8;
+        margin-left: 30px;
+        margin-right: 40px;
+    }
+    i{
+        font-size: 18px;
+        margin-left: 40px;
+        color: #1F7DB8;
+    }
+    #texto{
+        border: solid 2px #C7811E;
+    }
+    table{
+        align-self: center;
+    }
+    #imagemlateral{
+        float: right;
+        margin-right: 40px;
+        margin-left: 40px;
+        margin-top: -20px;
+    }
+    #imagemdecada{
+        margin-right: 50px;
+        float: right;
+        margin-top: -120px;
+        margin-left: 40px;
+    }
+    #rodape{
+        background-color: #FFA82A;
+        height: 55px;
+        color: #1F7DB8;
+        text-align: center;
+        border: solid 2px #C7811E;
+        border-top: 0px;
+        padding: 10px;
+    }
+    #decada{
+        text-align: left;
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    #artistas{
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+    #artistas p{
+        height: 140px;
+        width: 370px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    #artistas img{
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+    }
+    #espaço{
+        margin-left: 10px;
+        margin-right: 10px;
+        border: solid 2px #1F7DB8;
+        background-color: #d2eeff;
+        height: 600px;
+    }
+    .umlink{
+        height: 40px;
+    }
